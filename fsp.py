@@ -173,7 +173,7 @@ def Feature_Space_Partition(X, y, opt=None):
 
         if opt['rng_default']:
             random.seed(0)
-        kmeans = KMeans(n_clusters=k,max_iter= 1000, n_init=10).fit(X)
+        kmeans = KMeans(n_clusters=k,max_iter= 1000, n_init=1).fit(X)
         idx = kmeans.labels_
         C = kmeans.cluster_centers_
         #Evaluate each cluster
