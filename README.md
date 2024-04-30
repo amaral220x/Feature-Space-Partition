@@ -24,6 +24,6 @@ Lembre-se que o dataset deve estar no formato `.mat` e deve estar na pasta `Data
 - `pdc.py`: Probabilistic Draw Classifier = Classificador baseado no particionamento.
 
 ## Feito por
-- [Gabriel Amaral](github.com/amaral220x)
+- [Gabriel Amaral](https://github.com/amaral220x)
 - [Bruno Carmo](https://la.mathworks.com/matlabcentral/profile/authors/7908674)
 - [Carolina Gil Marcelino](https://www.mathworks.com/matlabcentral/fileexchange/112245-feature-space-partition-fsp)
