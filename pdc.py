@@ -63,7 +63,7 @@ def Probabilistic_Draw_Classifier(XTest, rmH, XTrain=None, yTrain=None):
         yTestPD_Proportion = DominantClassLabelProportion[indice]
         yTestPD = yTestPD.astype(int)
 
-    elif XTrain is None and yTrain is None: ##Ainda não tá funcionando
+    elif XTrain is None and yTrain is None:
         # Take a copy of XTest
         X = XTest.copy()
 
