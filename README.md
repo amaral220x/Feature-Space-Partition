@@ -25,7 +25,7 @@ Lembre-se que o dataset deve estar no formato `.mat` e deve estar na pasta `Data
 - `IlustrationsPDF.ipynb`: Notebook que gera plots da segmentação do espaço após o FSP.
 - `IlustrationsGIF.ipynb`: Notebook que gera um GIF com a segmentação do espaço após o FSP.
 
-##Notebooks
+## Notebooks
 O repositório conta com Notebooks que ilustram melhor o funcionamento das funções principais e também conta com as decisões na limpagem dos Datasets.
 
 
