@@ -1,6 +1,6 @@
 # Feature-Space-Partition
 A local-global classification scheme for Python, based on MATLAB version.
-![](https://github.com/amaral220x/Feature-Space-Partition/blob/main/multipage.gif)
+![](https://github.com/amaral220x/Feature-Space-Partition/blob/main/multipage-inf.gif)
 
 ## Como usar
 Em primeiro momento, é necessário instalar as dependências do projeto. Para isso, execute o comando abaixo:
